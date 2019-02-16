@@ -1,2 +1,2 @@
 # temp_blog
-Temporally Controlling blogs. 
+Version control for blogs. 
