@@ -1,7 +1,1 @@
-baseurl: "/dion-m-sato.github.io/temp_blog"
 theme: jekyll-theme-minimal
-encding: utf-8
-plugins: 
-  - jekyll-github-metadata
-github : [metadata]
-repository: Dion-M-Sato/temp_blog
