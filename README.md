@@ -1,2 +1,2 @@
 # temp_blog
-Temporally Controling blogs. 
+Temporally Controlling blogs. 
