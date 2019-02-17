@@ -4,6 +4,13 @@ title: ただ単に悲しくて死ぬということ【書評】ミシェル・�
 
 ---
 
+<div style="font-style: x-small">
+<p>version 0.0.2</p>
+<p>Change log<p>
+<code>It moved to Github Pages.(2019/2/16) </code>
+</div>
+
+
 # ただ単に悲しくて死ぬということ【書評】ミシェル・ウエルベック『セロトニン』  
 
 <div style="text-align:right">
