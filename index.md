@@ -7,8 +7,12 @@ title: ただ単に悲しくて死ぬということ【書評】ミシェル・�
 <div style="font-style: x-small">
 <p>version 0.0.2</p>
 <p>Change log<p>
-<code>It moved to Github Pages.(2019/2/16) </code>
-<code>Changing paragraphes of Yuzu. Adding a theme of the misandry.(2019/2/20)</code>
+<code>
+It moved to Github Pages.(2019/2/16)
+
+Changing paragraphes of Yuzu. Adding a theme of the misandry.(2019/2/20)
+</code>
+
 </div>
 
 
