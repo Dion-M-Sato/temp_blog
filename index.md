@@ -9,7 +9,7 @@ title: ただ単に悲しくて死ぬということ【書評】ミシェル・�
 <small>It moved to Github Pages.(2019/2/16)</small>  
 <small>Changing paragraphes of Yuzu. Adding a theme of the misandry.(2019/2/20)</small>
 <small>Recomposing the survey of reviews. Addig footnote 11.(2019/2/23)</small>  
-<small>Fixing layout and reviewing translations.(2019/3/3)</small>
+<small>Fixing layout and reviewing translations.(2019/3/3)</small>  
 <small>Fixing typo.(2019/5/11)</small>
 
 # ただ単に悲しくて死ぬということ【書評】ミシェル・ウエルベック『セロトニン』  
