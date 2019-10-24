@@ -1,1 +1,7 @@
-theme: jekyll-theme-slate
+remote_theme: thelehhman/texture
+texture:
+  title: TEMPORARY
+  tagline: movie, novel
+  date_format: "%b %-d, %Y"
+  style:[red]
+  
