@@ -12,7 +12,6 @@ title: ただ単に悲しくて死ぬということ【書評】【&#x26A0;劇�
 <small>Fixing typo.(2019/5/11)</small>  
 <small>Changing the theme.(2019/10/25)</small>  
 
-# ただ単に悲しくて死ぬということ【書評】ミシェル・ウエルベック『セロトニン』  
 
 <div style="text-align:right">
 <p>
