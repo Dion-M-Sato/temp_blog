@@ -1,3 +1,5 @@
+baseurl: "/temp_blog"
+url: "https://dion-m-sato.github.io"
 remote_theme: thelehhman/texture
 texture:
   title: TEMPORARY
