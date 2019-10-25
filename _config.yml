@@ -1,16 +1,16 @@
 baseurl: "/temp_blog"
 url: "https://dion-m-sato.github.io"
 github: [metadata]
+plugins:
+  - jekyll-feed #feedback_information
+  - jekyll-remote-theme
+  - github-pages
+    
 remote_theme: thelehhman/texture
 texture:
   title: TEMPORARY
-  name: Dion Masanao Sato
   tagline: movie, novel
   date_format: "%b %-d, %Y"
   style: red
   showNav: true
 
-plugins:
-  - jekyll-feed #何かは不明
-  - jekyll-remote-theme
-  - github-pages
