@@ -1,5 +1,6 @@
 baseurl: "/temp_blog"
 url: "https://dion-m-sato.github.io"
+github: [metadata]
 remote_theme: thelehhman/texture
 texture:
   title: TEMPORARY
@@ -7,4 +8,8 @@ texture:
   date_format: "%b %-d, %Y"
   style: red
   showNav: true
-  
+
+plugins:
+  - jekyll-feed #何かは不明
+  - jekyll-remote-theme
+  - github-pages
