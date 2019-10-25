@@ -3,5 +3,6 @@ texture:
   title: TEMPORARY
   tagline: movie, novel
   date_format: "%b %-d, %Y"
-  style:[red]
+  style: red
+  showNav: true
   

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: ただ単に悲しくて死ぬということ【書評】ミシェル・ウエルベック『セロトニン』
 
 ---
