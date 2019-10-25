@@ -247,6 +247,7 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
+  jekyll-remote-theme
   texture
 
 BUNDLED WITH

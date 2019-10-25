@@ -4,6 +4,7 @@ github: [metadata]
 remote_theme: thelehhman/texture
 texture:
   title: TEMPORARY
+  name: Dion Masanao Sato
   tagline: movie, novel
   date_format: "%b %-d, %Y"
   style: red
