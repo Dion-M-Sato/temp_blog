@@ -420,19 +420,19 @@ header .social li i:hover { color: #999; }
 @media screen and (min-width: 1280px) { .navbar ul li { font-size: 17px; } }
 .navbar ul li:hover { background-color: rgba(255, 255, 255, 0.15); cursor: pointer; }
 
-.texture-black { background-image: url("/temp_blog/assets/textures/black.jpg"); }
+.texture-black { background-image: url("/assets/textures/black.jpg"); }
 .texture-black h2 { color: #999; }
 
-.texture-blue { background-image: url("/temp_blog/assets/textures/blue.jpg"); }
+.texture-blue { background-image: url("/assets/textures/blue.jpg"); }
 .texture-blue h2 { color: #ddd; }
 .texture-blue .social i:hover { color: #eee; }
 .texture-blue .post-date { color: #ccc; }
 
-.texture-red { background-image: url("/temp_blog/assets/textures/red.jpg"); }
+.texture-red { background-image: url("/assets/textures/red.jpg"); }
 
-.texture-purple { background-image: url("/temp_blog/assets/textures/purple.jpg"); }
+.texture-purple { background-image: url("/assets/textures/purple.jpg"); }
 
-.texture-green { background-image: url("/temp_blog/assets/textures/green.jpg"); }
+.texture-green { background-image: url("/assets/textures/green.jpg"); }
 .texture-green .post-date { color: #ccc; }
 
 .texture-red h2, .texture-purple h2 { color: #ccc; }
