@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ただ単に悲しくて死ぬということ【書評】【&#x26A0;劇透】ミシェル・ウエルベック『セロトニン』
+title: ただ単に悲しくて死ぬということ
 ---
 
 <small><b>version 0.0.2</b></small>  
@@ -27,6 +27,9 @@ Houellebecq, Michel, *Sérotonine* , Paris, Flammarion, 2019.
 <div style="text-align:center"><a href="https://www.amazon.co.jp/Serotonine-Michel-Houellebecq/dp/2081471752/ref=as_li_ss_il?ie=UTF8&qid=1548852707&sr=8-1&keywords=s%C3%A9rotonine&linkCode=li3&tag=junker1973-22&linkId=7217e395279e52d95a7f8f7446341d1c&language=ja_JP" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=2081471752&Format=_SL250_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=junker1973-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=junker1973-22&language=ja_JP&l=li3&o=9&a=2081471752" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></div>
 
 [ブログの一覧に戻る]({{ site.url }}{{ site.baseurl }})
+
+<font style="font-size:26px;font-weight:bold">【書評】【&#x26A0;劇透】ミシェル・ウエルベック『セロトニン』</font>
+
 
 ## 『セロトニン』の出版をめぐって
 
